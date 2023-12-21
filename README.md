@@ -1,1 +1,1 @@
-# 20-ProjectCode
+The 20% Code.html file is the only file I have. It contains all of my code. It contains html code and is launched using WebStorm. To install WebStorm, go to JetBrains.com --> Developer Tools --> Webstorm and follow the download instructions. The program opens up an html window in Chrome with a 750x750 pixel resolution webcam. For any future collaborators, install OpenCV on terminal with pip, and go from there.
